@@ -5,8 +5,8 @@ module.exports = {
     title: 'Vinh Le',
     description:
       'Vinh Le is a software engineer/blockchain developer specializing in building exceptional dapps/smart contracts.',
-    // siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    // image: '/og.png', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@@tweety372492142',
   },
   plugins: [
