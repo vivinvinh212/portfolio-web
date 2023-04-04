@@ -61,12 +61,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Vinh Le</h2>;
-  const three = <h3 className="big-heading">I build functional DApps.</h3>;
+  const three = <h3 className="big-heading">I build functional DApps/Smart contracts.</h3>;
   const four = (
     <>
       <p>
         I’m a software engineer/blockchain developer specializing in building exceptional dapps/smart contracts, embracing ZKP, NFT, Multisiug, DEX, etc.
-        .
       </p>
     </>
   );
