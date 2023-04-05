@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer/blockchain developer specializing in building exceptional dapps/smart contracts, embracing ZKP, NFT, Multisiug, DEX, etc.
+        I’m a smart contract engineer/blockchain developer specializing in building exceptional dapps/smart contracts, embracing ZKP, Diamond Faucet, NFT, Multisig, DEX, etc.
       </p>
     </>
   );

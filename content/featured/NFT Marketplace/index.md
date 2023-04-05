@@ -1,10 +1,10 @@
 ---
-date: '2022-09-02'
+date: '3'
 title: 'NFT Marketplace'
 author: 'Vinh Le'
-cover: './nft_marketplace.png'
+cover: './demo.png'
 github: 'https://github.com/vivinvinh212/NFT-Marketplace'
-external: 'https://642c5eac68fae8102b7d2c7a--fluffy-madeleine-eaf3c5.netlify.app/'
+external: 'https://nft-marketplace-zink.netlify.app/'
 tech:
 
 - ReactJS

@@ -138,7 +138,7 @@ const About = () => {
               Hi, I'm Vinh, a web3 developer skilled in Solidity, JavaScript, Python, and Java. Experienced in various frameworks and platforms like Hardhat, OpenZeppelin, and Truffle, I focus on creating accessible and inclusive DApps embracing DAO, DeFi, NFT, and ZKP development.
             </p>
             <p>
-              My diverse project portfolio includes <a href="https://github.com/vivinvinh212/Token-BulkSender">TokenBulkSender Audit</a>, <a href="https://github.com/vivinvinh212/Multisig-wallet">Oracle-integrated Multisignature Wallet</a>, and <a href="https://github.com/vivinvinh212/Transaction-Query-DApp">WBTC mint/burn Transaction Query DApp</a>.
+              My diverse project portfolio includes  <a href="https://github.com/vivinvinh212/Multisig-wallet">Oracled Multisig Wallet</a>, <a href="https://github.com/vivinvinh212/Token-BulkSender">TokenBulkSender Audit</a>, <a href='https://github.com/vivinvinh212/Simulated-DEX-Hydro-Protocol'>Customizable DEX</a>, and <a href="https://github.com/vivinvinh212/Transaction-Query-DApp">WBTC mint/burn txn Query DApp</a>.
             </p>
 
             <p>

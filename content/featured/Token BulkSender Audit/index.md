@@ -1,15 +1,15 @@
 ---
-date: '4'
-title: 'DApp for Querying Most Recent WBTC Mint/Burn Transaction'
+date: '3'
+title: 'TokenBondingCurve Audit'
 cover: './demo.png'
-github: 'https://github.com/vivinvinh212/Transaction-Query-DApp'
-external: 'https://wbtc-dapp.netlify.app/'
+github: 'https://github.com/vivinvinh212/TokenBondingCurve'
+external: './audit.pdf'
 tech:
-- React
-- Etherscan
-- JavaScript
+- Slither
+- Foundry
+- Echidna
 ---
-Perform manual verification of project’s smart contracts combining with analyzing results output of automated tool Foundry, Slither, Edchina. Auditing requires in-depth understanding of smart contracts written by other developers, knowledge of best practices and efficient use of auditing/testing tools like Slither, Echidna
+The MetaSoccer Token Bonding Curve is an AMM contract that enables users to buy and sell the MetaSoccer Universe (MSU) token. Perform manual verification of project’s smart contracts combining with analyzing results output of automated tool Foundry (forge & cast), Slither, Edchina. Auditing requires in-depth understanding of smart contracts written by other developers, knowledge of best practices and efficient use of auditing/testing tools like Slither, Echidna
 
 
 

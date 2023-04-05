@@ -1,6 +1,6 @@
 ---
-date: '2022-09-15'
 title: 'Customizable DEX'
+date: '2'
 author: 'Vinh Le'
 cover: './demo.png'
 github: 'https://github.com/vivinvinh212/Simulated-DEX-Hydro-Protocol'
