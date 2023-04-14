@@ -1,6 +1,6 @@
 ---
 date: '2022-07-01'
-title: 'Research Analyst Intern'
+title: 'Technical Research Analyst'
 company: 'Spores Network'
 location: 'Hanoi, Vietnam'
 range: 'July 2022 - September 2022'
