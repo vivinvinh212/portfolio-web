@@ -1,6 +1,6 @@
 ---
 date: '2022-11-01'
-title: 'Blockchain Developer/Audit Intern'
+title: 'Blockchain Developer/Audit Associate'
 company: 'Cystack'
 location: 'Hanoi, Vietnam'
 range: 'November 2022 - April 2023'
